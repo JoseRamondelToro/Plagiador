@@ -1,0 +1,35 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+*.exe
+*.spec
+build/
+dist/
+*.egg-info/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Claves o configuraciones privadas
+*.key
+*.pem
+encrypted_api.key
+secret.key
+
+# Otros
+*.log
